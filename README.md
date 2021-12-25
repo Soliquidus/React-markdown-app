@@ -2,6 +2,8 @@
 
 Basic markdown app to get used to React basics
 
+![img.png](img.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
